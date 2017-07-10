@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675981313570",
+    "project_id": "firebase-myapplicationproject"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675981313570:android:5723f2943deecafe",
+        "android_client_info": {
+          "package_name": "com.example.nikolaos.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675981313570-lgjtpfe93ot2oldfl1gq6u0r4sra93tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nikolaos.myapplication",
+            "certificate_hash": "e75b023a3a340c5328e3c0961b6fa3657ef5ab38"
+          }
+        },
+        {
+          "client_id": "675981313570-9dds5lmli6pv409231v3kko0e6q37d6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNTmYc0BEqvCCp4729bMq0rwuTvYe9jQo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

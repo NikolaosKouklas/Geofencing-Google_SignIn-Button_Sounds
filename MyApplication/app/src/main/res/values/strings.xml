@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="entry_button_text">ΕΙΣΟΔΟΣ</string>
+    <string name="dialog_message">Η συσκευή σας δεν είναι συνδεδεμένη σε κάποιο δίκτυο.\n\nΠρέπει να συνδεθείτε σε κάποιο δίκτυο πριν να συνεχίσετε.</string>
+    <string name="dialog_title">ΕΛΕΓΧΟΣ ΣΥΝΔΕΣΗΣ</string>
+    <string name="ok">ΕΝΤΑΞΕΙ</string>
+    <string name="login_button_text">ΣΥΝΔΕΣΗ</string>
+    <string name="auth_failure_text">Η Αυθεντικοποίηση Απέτυχε</string>
+    <string name="auth_success_text">Αυθεντικοποίηση Επιτυχής</string>
+    <string name="next_button_text">ΕΠΟΜΕΝΟ</string>
+    <string name="next_image_button_text">ΑΛΛΗ ΕΙΚΟΝΑ</string>
+    <!-- Transition type strings -->
+    <string name="geofence_transition_entered">Entered</string>
+    <string name="geofence_transition_exited">Exited</string>
+    <string name="unknown_geofence_transition">Unknown Transition</string>
+    <string name="geofence_transition_invalid_type">Geofence transition error: invalid transition type %1$d</string>
+    <string name="geofence_transition_notification_text">Click notification to return to app</string>
+</resources>
